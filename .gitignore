@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv
+venv/
+.idea/
+.vscode/
+# Ignore actual secret files, but keep .env.example
+.env
+.env.local
+.env.production
